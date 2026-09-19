@@ -37,15 +37,6 @@ Everything lives in a single `index.html` file — no build step, no dependencie
 6. Tap **✨ Generate my log**
 7. Tap **📋 Copy to clipboard** and paste it straight into the group
 
-## 🚀 Hosting it yourself (GitHub Pages, free)
-
-1. Create a new **public** GitHub repository
-2. Upload `index.html` to it (the file name must be exactly `index.html`)
-3. Commit the change
-4. Go to **Settings → Pages**, set Source to **Deploy from a branch**, branch `main`, folder `/ (root)`, then Save
-5. Wait 1–2 minutes — your live link will appear on that same Settings → Pages screen
-
-You can also just double-click `index.html` to open it straight in any browser — no server needed for personal use.
 
 ## 📁 Project structure
 
