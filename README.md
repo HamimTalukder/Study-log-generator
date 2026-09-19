@@ -17,7 +17,7 @@ No sign-up, no backend, no install. Open it in a browser, fill it in, copy the r
 ## 🖥️ Live demo
 
 Once hosted on GitHub Pages, your link will look like:
-https://hamimtalukder.github.io/Study-log-generator/
+[Website](https://hamimtalukder.github.io/Study-log-generator/)
 
 ## 🛠️ Built with
 
