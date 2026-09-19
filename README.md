@@ -17,7 +17,7 @@ No sign-up, no backend, no install. Open it in a browser, fill it in, copy the r
 ## 🖥️ Live demo
 
 Once hosted on GitHub Pages, your link will look like:
-`https://hamimtalukder.github.io/study-log-generator/`
+https://hamimtalukder.github.io/Study-log-generator/
 
 ## 🛠️ Built with
 
@@ -64,4 +64,4 @@ study-log-generator/
 
 ## 🙌 Credits
 
-Made by **S0T0n** for the daily study log community, so nobody has to hunt for the right emoji or retype the format by hand.
+Made by **Hamim Talukder S0T0n** for the daily study log community, so nobody has to hunt for the right emoji or retype the format by hand.
