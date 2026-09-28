@@ -34,17 +34,25 @@
   html, body { margin: 0; padding: 0; }
   body {
     background: var(--bg-a);
-    background-image:
-      radial-gradient(60% 50% at 12% 8%, rgba(193,59,132,0.35), transparent 60%),
-      radial-gradient(55% 45% at 88% 18%, rgba(58,22,112,0.65), transparent 60%),
-      radial-gradient(70% 55% at 50% 100%, rgba(58,22,112,0.55), transparent 60%);
-    background-repeat: no-repeat;
     color: var(--text-hi);
     font-family: var(--font-display);
     font-weight: 400;
     min-height: 100vh;
     -webkit-font-smoothing: antialiased;
     line-height: 1.4;
+    position: relative;
+  }
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image:
+      radial-gradient(60% 50% at 12% 8%, rgba(193,59,132,0.35), transparent 60%),
+      radial-gradient(55% 45% at 88% 18%, rgba(58,22,112,0.65), transparent 60%),
+      radial-gradient(70% 55% at 50% 100%, rgba(58,22,112,0.55), transparent 60%);
+    background-repeat: no-repeat;
   }
 
   .wrap {
@@ -396,6 +404,8 @@
         <button class="chip" data-subject="Math" data-emoji="📐">📐 Math</button>
         <button class="chip" data-subject="Biology" data-emoji="🧬">🧬 Biology</button>
         <button class="chip" data-subject="English" data-emoji="📖">📖 English</button>
+        <button class="chip" data-subject="Bangla" data-emoji="🇧🇩">🇧🇩 Bangla</button>
+        <button class="chip" data-subject="GK" data-emoji="🌍">🌍 GK</button>
       </div>
     </div>
 
