@@ -6,7 +6,7 @@ No sign-up, no backend, no install. Open it in a browser, fill it in, copy the r
 
 ## ✨ Features
 
-- **Subject picker** — Physics ⚡, Chemistry 🧪, Math 📐, Biology 🧬, English 📖, each with its own emoji
+- **Subject picker** — Physics ⚡, Chemistry 🧪, Math 📐, Biology 🧬, English 📖, GK 🌎, Bangladesh 🇧🇩 with its own emoji
 - **Chapter, classes, question bank, and exam status** — filled in with taps and a text field, no typing formatting by hand
 - **Live Dhaka-time date & timestamp** — always correct regardless of the visitor's own device timezone
 - **One-tap "Generate"** — builds the exact post text from your inputs
